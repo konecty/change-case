@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "change-case": {
+      "version": "2.1.5",
+      "dependencies": {
+        "camel-case": {
+          "version": "1.0.2"
+        },
+        "constant-case": {
+          "version": "1.0.0"
+        },
+        "dot-case": {
+          "version": "1.0.1"
+        },
+        "is-lower-case": {
+          "version": "1.0.0"
+        },
+        "is-upper-case": {
+          "version": "1.0.1"
+        },
+        "lower-case": {
+          "version": "1.0.2"
+        },
+        "param-case": {
+          "version": "1.0.1"
+        },
+        "pascal-case": {
+          "version": "1.0.0"
+        },
+        "path-case": {
+          "version": "1.0.1"
+        },
+        "sentence-case": {
+          "version": "1.1.0"
+        },
+        "snake-case": {
+          "version": "1.0.1"
+        },
+        "swap-case": {
+          "version": "1.0.2"
+        },
+        "title-case": {
+          "version": "1.0.1"
+        },
+        "upper-case": {
+          "version": "1.0.3"
+        },
+        "upper-case-first": {
+          "version": "1.0.1"
+        }
+      }
+    }
+  }
+}
