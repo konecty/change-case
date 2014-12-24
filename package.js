@@ -1,7 +1,7 @@
 Package.describe({
   name: 'konecty:change-case',
   summary: 'Convert strings between camelCase, PascalCase, Title Case, snake_case, etc.',
-  version: '1.0.1',
+  version: '1.0.2',
   git: 'https://github.com/Konecty/change-case.git'
 });
 
