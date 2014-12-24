@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "change-case": {
-      "version": "2.1.5",
+      "version": "2.1.6",
       "dependencies": {
         "camel-case": {
           "version": "1.0.2"
